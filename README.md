@@ -1,7 +1,6 @@
 # Arcade-Game-Project
 "Synth" Tac Toe
-* = Still need to work out
-Aww shit, here we go again.
+*Italic* = Still need to work out
 //Make a two player game
 //Make a 3x3 grid
 //grid has players put their x or o mark in one of the spaces when they click the box
